@@ -1,4 +1,4 @@
-<p align="center"><img src="https://howpple.com/wp-content/uploads/2020/04/C%C3%B3mo-usar-un-GIF-como-esfera-en-el-Apple-Watch-Howpple-tutoriales-Apple.gif" alt="Oh My Zsh"></p>
+<p align="center"><img src="https://i.pinimg.com/originals/49/2b/92/492b9220dd2499619fb48ae857d320ea.gif" alt="Oh My Zsh"></p>
 
 Oh My Zsh is an open source, community-driven framework for managing your [zsh](https://www.zsh.org/) configuration.
 
