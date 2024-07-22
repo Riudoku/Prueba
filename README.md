@@ -1,4 +1,4 @@
-<p align="center"><img src="https://ohmyzsh.s3.amazonaws.com/omz-ansi-github.png" alt="Oh My Zsh"></p>
+<p align="center"><img src="https://villman.com/product_photos/mac-mini-m1_iz6wz.gif" alt="Oh My Zsh"></p>
 
 Oh My Zsh is an open source, community-driven framework for managing your [zsh](https://www.zsh.org/) configuration.
 
